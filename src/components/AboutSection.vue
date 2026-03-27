@@ -6,7 +6,7 @@ const reasons = [
   },
   {
     title: 'Echipa Experților',
-    description: 'Tehnicienii noștri sunt bine instruiți și au o vastă experiență în domeniu, de 12 ani.',
+    description: 'Tehnicienii noștri sunt bine instruiți și au o vastă experiență în domeniu, de 14 ani.',
   },
   {
     title: 'Onestitate și Transparență',
@@ -34,7 +34,7 @@ const reasons = [
       </div>
 
       <div class="about__image" data-aos="fade-up">
-        <img src="/images/coffee-beans.jpg" alt="Reparații espressoare de cafea" />
+        <img src="/images/aparat.png" alt="Reparații espressoare de cafea" />
       </div>
 
       <div class="about__grid">
