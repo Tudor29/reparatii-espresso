@@ -41,8 +41,11 @@
 
     <div class="footer__anpc">
       <div class="container footer__anpc-inner">
-        <a href="https://anpc.ro/" target="_blank" rel="noopener" class="footer__anpc-banner">
-          <img src="/images/anpc.png" alt="ANPC - Autoritatea Națională pentru Protecția Consumatorilor" class="footer__anpc-img" />
+        <a href="https://anpc.ro/ce-este-sal/" target="_blank" rel="noopener noreferrer" class="footer__anpc-banner">
+          <img src="/images/anpc-sal.png" alt="ANPC SAL" class="footer__anpc-img" />
+        </a>
+        <a href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=RO" target="_blank" rel="noopener noreferrer" class="footer__anpc-banner">
+          <img src="/images/anpc-sol.png" alt="ANPC SOL EU" class="footer__anpc-img" />
         </a>
       </div>
     </div>
