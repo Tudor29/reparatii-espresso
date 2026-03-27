@@ -24,7 +24,7 @@ const steps = [
 </script>
 
 <template>
-  <section id="proces" class="section section--bg-image" style="background-image: url('/images/coffee-beans.jpg')">
+  <section id="proces" class="section section--bg-image" style="background-image: url('/images/coffee.jpg')">
     <div class="container">
       <div class="section__header" data-aos="fade-up">
         <h2 class="section__title">Cum puteți beneficia de serviciile noastre</h2>

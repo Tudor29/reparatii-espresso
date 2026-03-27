@@ -34,7 +34,7 @@ const reasons = [
       </div>
 
       <div class="about__image" data-aos="fade-up">
-        <img src="/images/espresso-repair.webp" alt="Reparații espressoare de cafea" />
+        <img src="/images/coffee-beans.jpg" alt="Reparații espressoare de cafea" />
       </div>
 
       <div class="about__grid">
