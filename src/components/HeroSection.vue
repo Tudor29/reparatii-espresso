@@ -22,7 +22,7 @@
       </div>
 
       <div class="hero__visual" data-aos="fade-left" data-aos-delay="200">
-        <img src="/images/hero-espresso.jpg" alt="Espressor de cafea profesional" class="hero__image" />
+        <img src="/images/hero-espresso.png" alt="Espressoare de cafea - DeLonghi, Philips, Jura, Siemens, Saeco, Breville" class="hero__image" />
       </div>
     </div>
   </section>

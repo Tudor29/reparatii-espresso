@@ -39,6 +39,14 @@
       </div>
     </div>
 
+    <div class="footer__anpc">
+      <div class="container footer__anpc-inner">
+        <a href="https://anpc.ro/" target="_blank" rel="noopener" class="footer__anpc-banner">
+          <img src="/images/anpc.png" alt="ANPC - Autoritatea Națională pentru Protecția Consumatorilor" class="footer__anpc-img" />
+        </a>
+      </div>
+    </div>
+
     <div class="footer__bottom">
       <div class="container">
         <p>&copy; 2026 Abil Service. Toate drepturile rezervate.</p>

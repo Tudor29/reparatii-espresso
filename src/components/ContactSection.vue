@@ -20,7 +20,7 @@ const websites = [
 </script>
 
 <template>
-  <section id="contact" class="section section--bg-image" style="background-image: url('/images/espresso-closeup.jpg')">
+  <section id="contact" class="section section--bg-image" style="background-image: url('/images/espresso-closeup.png')">
     <div class="container">
       <div class="section__header" data-aos="fade-up">
         <h2 class="section__title">Contactează-ne</h2>
